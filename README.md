@@ -1,6 +1,51 @@
-# 💫 About Me:
-Currently pursuing a Postgraduate program in Data Science and Artificial Intelligence from IIIT Bangalore. I am a passionate learner with a strong analytical mindset and a solid foundation in mathematics.<br><br>Skilled in Python, SQL, Excel, Power BI, Tableau, and data analysis techniques, with growing experience in business analytics and data-driven problem solving. I enjoy working with data to uncover insights, build dashboards, and support informed decision-making.<br><br>Actively developing projects in analytics, visualization, and applied data science.
+# Hi there, I'm Omkar 👋
 
+### AI Engineer | Machine Learning | Generative AI | Agentic AI
+
+I'm an aspiring **AI Engineer** with a postgraduate diploma in **Machine Learning and Artificial Intelligence**, specializing in **Generative AI** and **Agentic AI**. I enjoy building intelligent applications that combine machine learning, large language models, and data-driven decision-making to solve real-world problems.
+
+### 🚀 What I Do
+
+* 🤖 Build AI and LLM-powered applications
+* 🧠 Develop Machine Learning and Deep Learning models
+* 🔍 Design Retrieval-Augmented Generation (RAG) systems
+* ⚡ Create AI agents and workflow automation solutions
+* 📊 Perform data analytics, visualization, and business intelligence
+* ☁️ Develop scalable AI solutions and APIs
+
+### 🛠️ Tech Stack
+
+**Languages:** Python, SQL
+
+**Machine Learning & AI:** Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
+
+**Generative AI:** LangChain, LlamaIndex, OpenAI API, Google Gemini, Hugging Face, RAG, Vector Databases, Prompt Engineering
+
+**Data:** Pandas, NumPy, PySpark
+
+**Visualization:** Power BI, Tableau, Matplotlib
+
+**Development:** FastAPI, Docker, Git, GitHub
+
+### 🌱 Currently Exploring
+
+* Agentic AI Systems
+* Multi-Agent Architectures
+* AI Evaluation & Guardrails
+* Model Optimization & Deployment
+* Production-grade RAG Pipelines
+
+### 🎯 Career Goal
+
+I'm seeking opportunities as an **AI Engineer**, **Machine Learning Engineer**, or **Data Scientist**, where I can contribute to building intelligent, scalable, and impactful AI solutions while continuously learning emerging technologies.
+
+### 📫 Connect with Me
+
+* 💼 LinkedIn: *Add your LinkedIn URL*
+* 🌐 Portfolio: *Add your portfolio URL*
+* 📧 Email: *Add your email*
+
+> *"Building intelligent systems that transform data into actionable insights and real-world impact."*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkar-kadam-046653227/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Omkar Kadam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Omikadam70@gmail.com) 

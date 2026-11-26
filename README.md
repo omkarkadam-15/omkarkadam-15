@@ -130,7 +130,6 @@ I'm open to **AI/ML Engineer, Generative AI Engineer, Agentic AI Engineer, and R
 
 **Email:** [omiskadam15@gmail.com](mailto:omkarkadam151998@gmail.com) · **LinkedIn:** [Connect with me](https://www.linkedin.com/in/omkarkadam-ok15)
 
-**Always learning. Always building. Focused on impact.**
 ---
 
 <div align="center">

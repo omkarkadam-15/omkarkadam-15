@@ -11,7 +11,7 @@ Postgraduate Diploma in ML & AI · IIIT Bangalore<br>
 3+ years of professional experience in technical production and workflow optimization
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkarkadam-ok15)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omiskadam15@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarkadam151998@gmail.com)
 [![Repositories](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkarkadam-15?tab=repositories)
 
 ![Open to Work](https://img.shields.io/badge/Open_to_Work-AI%2FML_%7C_GenAI_%7C_Agentic_AI-238636?style=flat-square)
@@ -129,18 +129,19 @@ AI Deployment    → APIs, local inference, cloud platforms, and optimization
 
 I'm open to **AI/ML Engineer, Generative AI Engineer, Agentic AI Engineer, and RAG Engineer** opportunities across India and international/remote teams. I'm particularly interested in building reliable AI applications that solve real-world problems and deliver measurable outcomes.
 
-**Email:** [omiskadam15@gmail.com](mailto:omiskadam15@gmail.com) · **LinkedIn:** [Connect with me](https://www.linkedin.com/in/omkarkadam-ok15)
+**Email:** [omiskadam15@gmail.com](mailto:omkarkadam151998@gmail.com) · **LinkedIn:** [Connect with me](https://www.linkedin.com/in/omkarkadam-ok15)
 
+**Always learning. Always building. Focused on impact.**
 ---
 
 <div align="center">
-## ✍️ Random Dev Quote
+  
+## ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omkarkadam-15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**Always learning. Always building. Focused on impact.**
 
 </div>
 

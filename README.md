@@ -128,7 +128,7 @@ With a background in mathematics and over three years of professional experience
 
 I'm open to **AI/ML Engineer, Generative AI Engineer, Agentic AI Engineer, and RAG Engineer** opportunities across India and international/remote teams. I'm particularly interested in building reliable AI applications that solve real-world problems and deliver measurable outcomes.
 
-**Email:** [omiskadam15@gmail.com](mailto:omkarkadam151998@gmail.com) · **LinkedIn:** [Connect with me](https://www.linkedin.com/in/omkarkadam-ok15)
+**Email:** [omkarkadam151998@gmail.com](mailto:omkarkadam151998@gmail.com) · **LinkedIn:** [Like to Connect](https://www.linkedin.com/in/omkarkadam-ok15)
 
 ---
 

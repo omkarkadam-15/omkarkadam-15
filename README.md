@@ -101,12 +101,11 @@ With a background in mathematics and over three years of professional experience
 
 ## Current Focus
 
-```text
 Agentic AI       → Reliable multi-agent workflows and tool orchestration
 RAG Engineering  → Retrieval quality, reranking, and grounded generation
 LLM Evaluation   → Faithfulness, relevance, safety, and observability
 AI Deployment    → APIs, local inference, cloud platforms, and optimization
-```
+
 
 ## Education
 
